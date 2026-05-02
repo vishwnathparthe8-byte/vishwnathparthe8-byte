@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [vishwnath parthe]</h1>
 <h3 align="center">AI/ML Engineer | Python Developer</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🐍 Python-first developer who loves clean, reproducible code
 - 🌱 Currently exploring **Agents**, **Prompt Engineering** & **MLOps**
 - 💬 Ask me about: `LangChain` · `Transformers` · `scikit-learn` · `FastAPI`
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **vishwnatharthe8@gmail.com**
 
 ---
 
